@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+rag_env/
+
+# Environment variables
+.env
+
+# VS Code config (optional)
+.vscode/
