@@ -23,8 +23,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system for Bangla
 1. **Clone repository**:
 
    ```bash
-   git clone https://github.com/salvirezwan/bangla-rag-system.git
-   cd bangla-rag-system
+   git clone https://github.com/salvirezwan/Bangla-RAG-System.git
+   cd Bangla-Rag-System
    ```
 
 2. **Create virtual environment**:
